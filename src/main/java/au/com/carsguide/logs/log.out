@@ -1,0 +1,303 @@
+2023-05-22 11:05:240 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 11:05:370 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 11:05:147 INFO  HomePage :37 - verifying homepage url.
+2023-05-22 11:05:498 INFO  HomePage :46 - hover mouse to menu bar.
+2023-05-22 11:05:960 INFO  HomePage :58 - hover to submenu and click on element.
+2023-05-22 11:05:97 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-05-22 11:05:315 INFO  SearchCarsPage :53 - select make: 'Audi'
+2023-05-22 11:05:542 INFO  SearchCarsPage :58 - select model: 'A5'
+2023-05-22 11:05:741 INFO  SearchCarsPage :63 - select location: 'WA - Perth'
+2023-05-22 11:05:913 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-05-22 11:05:555 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-05-22 11:05:719 INFO  SearchCarsResultPage :42 - actual result: '6 audi a5s for sale under $50,000 in perth, wa'
+2023-05-22 11:05:719 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Audi'
+2023-05-22 11:05:560 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 11:05:212 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 11:05:297 INFO  HomePage :37 - verifying homepage url.
+2023-05-22 11:05:544 INFO  HomePage :46 - hover mouse to menu bar.
+2023-05-22 11:05:272 INFO  HomePage :58 - hover to submenu and click on element.
+2023-05-22 11:05:371 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-05-22 11:05:517 INFO  SearchCarsPage :53 - select make: 'Mitsubishi'
+2023-05-22 11:05:654 INFO  SearchCarsPage :58 - select model: 'Outlander'
+2023-05-22 11:05:815 INFO  SearchCarsPage :63 - select location: 'SA - North'
+2023-05-22 11:05:90 INFO  SearchCarsPage :68 - select priceTo: '60000'
+2023-05-22 11:05:513 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-05-22 11:05:627 INFO  SearchCarsResultPage :42 - actual result: '10 mitsubishi outlanders for sale under $60,000 in north, sa'
+2023-05-22 11:05:631 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Mitsubishi'
+2023-05-22 11:05:380 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 12:05:558 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 12:05:818 INFO  HomePage :37 - verifying homepage url.
+2023-05-22 12:05:125 INFO  HomePage :46 - hover mouse to menu bar.
+2023-05-22 12:05:614 INFO  HomePage :58 - hover to submenu and click on element.
+2023-05-22 12:05:351 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-05-22 12:05:699 INFO  SearchCarsPage :53 - select make: 'BMW'
+2023-05-22 12:05:172 INFO  SearchCarsPage :58 - select model: '118d'
+2023-05-22 12:05:334 INFO  SearchCarsPage :63 - select location: 'NT - North'
+2023-05-22 12:05:497 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-05-22 12:05:573 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-05-22 12:05:745 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'bmw'
+2023-05-22 12:05:753 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'BMW'
+2023-05-22 12:05:778 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'bmw'
+2023-05-22 12:05:778 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'BMW'
+2023-05-22 12:05:706 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-22 12:05:819 INFO  HomePage :37 - verifying homepage url.
+2023-05-22 12:05:110 INFO  HomePage :46 - hover mouse to menu bar.
+2023-05-22 12:05:622 INFO  HomePage :58 - hover to submenu and click on element.
+2023-05-22 12:05:572 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-05-22 12:05:809 INFO  SearchCarsPage :53 - select make: 'Audi'
+2023-05-22 12:05:951 INFO  SearchCarsPage :58 - select model: 'A5'
+2023-05-22 12:05:128 INFO  SearchCarsPage :63 - select location: 'WA - Perth'
+2023-05-22 12:05:380 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-05-22 12:05:320 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-05-22 12:05:484 INFO  SearchCarsResultPage :42 - actual result: '6 audi a5s for sale under $50,000 in perth, wa'
+2023-05-22 12:05:484 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Audi'
+2023-08-02 11:08:233 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:823 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:581 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:754 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:966 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:252 INFO  SearchCarsPage :53 - select make: 'BMW'
+2023-08-02 11:08:582 INFO  SearchCarsPage :58 - select model: '118d'
+2023-08-02 11:08:784 INFO  SearchCarsPage :63 - select location: 'NT - North'
+2023-08-02 11:08:25 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-08-02 11:08:420 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:895 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:95 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:433 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:12 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:263 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:462 INFO  SearchCarsPage :53 - select make: 'Audi'
+2023-08-02 11:08:841 INFO  SearchCarsPage :58 - select model: 'A5'
+2023-08-02 11:08:982 INFO  SearchCarsPage :63 - select location: 'WA - Perth'
+2023-08-02 11:08:87 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-08-02 11:08:502 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:911 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:401 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:635 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:513 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:119 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:370 INFO  SearchCarsPage :53 - select make: 'Hyundai'
+2023-08-02 11:08:671 INFO  SearchCarsPage :58 - select model: 'Imax'
+2023-08-02 11:08:859 INFO  SearchCarsPage :63 - select location: 'NSW - Sydney'
+2023-08-02 11:08:969 INFO  SearchCarsPage :68 - select priceTo: '40000'
+2023-08-02 11:08:300 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:699 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:611 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:914 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:252 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:410 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:598 INFO  SearchCarsPage :53 - select make: 'Mitsubishi'
+2023-08-02 11:08:150 INFO  SearchCarsPage :58 - select model: 'Outlander'
+2023-08-02 11:08:423 INFO  SearchCarsPage :63 - select location: 'SA - North'
+2023-08-02 11:08:661 INFO  SearchCarsPage :68 - select priceTo: '60000'
+2023-08-02 11:08:246 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:841 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:587 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:841 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:548 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:761 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:886 INFO  SearchCarsPage :53 - select make: 'Honda'
+2023-08-02 11:08:255 INFO  SearchCarsPage :58 - select model: 'Odyssey'
+2023-08-02 11:08:463 INFO  SearchCarsPage :63 - select location: 'VIC - All'
+2023-08-02 11:08:679 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-08-02 11:08:938 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:618 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:967 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:352 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:901 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:131 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:482 INFO  SearchCarsPage :53 - select make: 'BMW'
+2023-08-02 11:08:728 INFO  SearchCarsPage :58 - select model: '118d'
+2023-08-02 11:08:823 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:807 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:945 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:94 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:301 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:642 INFO  SearchCarsPage :53 - select make: 'BMW'
+2023-08-02 11:08:931 INFO  SearchCarsPage :58 - select model: '118d'
+2023-08-02 11:08:182 INFO  SearchCarsPage :63 - select location: 'QLD - All'
+2023-08-02 11:08:438 INFO  SearchCarsPage :68 - select priceTo: '80000'
+2023-08-02 11:08:106 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:292 INFO  SearchCarsResultPage :42 - actual result: '1 bmw 118d for sale under $80,000 in qld'
+2023-08-02 11:08:292 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'BMW'
+2023-08-02 11:08:470 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:36 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:384 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:601 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:807 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:77 INFO  SearchCarsPage :53 - select make: 'BMW'
+2023-08-02 11:08:340 INFO  SearchCarsPage :58 - select model: '118d'
+2023-08-02 11:08:546 INFO  SearchCarsPage :63 - select location: 'QLD - All'
+2023-08-02 11:08:795 INFO  SearchCarsPage :68 - select priceTo: '80000'
+2023-08-02 11:08:111 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:276 INFO  SearchCarsResultPage :42 - actual result: '1 bmw 118d for sale under $80,000 in qld'
+2023-08-02 11:08:284 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'BMW'
+2023-08-02 11:08:285 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:33 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:669 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:229 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:465 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:708 INFO  SearchCarsPage :53 - select make: 'Audi'
+2023-08-02 11:08:874 INFO  SearchCarsPage :58 - select model: 'A5'
+2023-08-02 11:08:41 INFO  SearchCarsPage :63 - select location: 'WA - Perth'
+2023-08-02 11:08:269 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-08-02 11:08:930 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:103 INFO  SearchCarsResultPage :42 - actual result: '14 audi a5s for sale under $50,000 in perth, wa'
+2023-08-02 11:08:106 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Audi'
+2023-08-02 11:08:07 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:652 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:51 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:962 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:185 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:404 INFO  SearchCarsPage :53 - select make: 'Hyundai'
+2023-08-02 11:08:665 INFO  SearchCarsPage :58 - select model: 'Imax'
+2023-08-02 11:08:824 INFO  SearchCarsPage :63 - select location: 'NSW - Sydney'
+2023-08-02 11:08:32 INFO  SearchCarsPage :68 - select priceTo: '40000'
+2023-08-02 11:08:131 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:324 INFO  SearchCarsResultPage :42 - actual result: '22 hyundai imaxs for sale under $40,000 in sydney, nsw'
+2023-08-02 11:08:324 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Hyundai'
+2023-08-02 11:08:197 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:173 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:492 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:985 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:187 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:409 INFO  SearchCarsPage :53 - select make: 'Mitsubishi'
+2023-08-02 11:08:633 INFO  SearchCarsPage :58 - select model: 'Outlander'
+2023-08-02 11:08:870 INFO  SearchCarsPage :63 - select location: 'SA - North'
+2023-08-02 11:08:176 INFO  SearchCarsPage :68 - select priceTo: '60000'
+2023-08-02 11:08:656 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:847 INFO  SearchCarsResultPage :42 - actual result: '10 mitsubishi outlanders for sale under $60,000 in north, sa'
+2023-08-02 11:08:848 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Mitsubishi'
+2023-08-02 11:08:808 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:500 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:267 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:99 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:302 INFO  SearchCarsPage :47 - Verifying heading text. 'New & Used Car Search - carsguide'
+2023-08-02 11:08:504 INFO  SearchCarsPage :53 - select make: 'Honda'
+2023-08-02 11:08:794 INFO  SearchCarsPage :58 - select model: 'Odyssey'
+2023-08-02 11:08:996 INFO  SearchCarsPage :63 - select location: 'VIC - All'
+2023-08-02 11:08:237 INFO  SearchCarsPage :68 - select priceTo: '50000'
+2023-08-02 11:08:389 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2023-08-02 11:08:565 INFO  SearchCarsResultPage :42 - actual result: '21 honda odysseys for sale under $50,000 in vic'
+2023-08-02 11:08:565 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Honda'
+2023-08-02 11:08:809 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:841 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:172 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:82 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:134 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:719 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:57 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:448 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:505 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:666 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:527 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:251 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:684 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:94 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:134 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:427 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:188 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:594 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:775 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:57 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:812 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:289 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:691 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:725 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:869 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:213 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:515 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:891 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:310 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:575 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:764 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:309 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:567 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:516 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:557 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:943 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:441 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:922 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:726 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:934 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:488 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:17 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:739 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:767 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:901 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:305 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:513 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:33 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:781 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:988 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:278 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:962 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:996 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:419 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:954 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:84 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:274 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:180 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:197 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:304 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:459 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 11:08:430 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 11:08:596 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 11:08:591 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 11:08:669 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 11:08:704 INFO  FindDealersResultPage :64 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:478 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:70 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:155 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:652 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:823 INFO  FindDealersResultPage :64 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:445 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:501 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:782 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:659 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:825 INFO  FindDealersResultPage :69 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:363 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:832 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:166 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:384 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:409 INFO  FindDealersResultPage :69 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:942 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:108 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:468 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:382 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:529 INFO  FindDealersResultPage :64 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:479 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:116 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:490 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:911 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:962 INFO  FindDealersResultPage :64 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:340 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:813 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:177 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:467 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:585 INFO  FindDealersResultPage :68 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:47 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:315 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:760 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:163 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:212 INFO  FindDealersResultPage :69 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:603 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:97 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:342 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:681 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:839 INFO  FindDealersResultPage :69 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:191 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:305 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:713 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:382 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:422 INFO  FindDealersResultPage :71 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:73 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:878 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:241 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:365 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:397 INFO  FindDealersResultPage :71 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2023-08-02 12:08:588 INFO  ManageBrowser :30 - launching chrome browser
+2023-08-02 12:08:355 INFO  HomePage :37 - verifying homepage url.
+2023-08-02 12:08:689 INFO  HomePage :46 - hover mouse to menu bar.
+2023-08-02 12:08:32 INFO  HomePage :58 - hover to submenu and click on element.
+2023-08-02 12:08:47 INFO  FindDealersResultPage :71 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
